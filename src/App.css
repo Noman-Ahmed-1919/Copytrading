@@ -1,38 +1,258 @@
-.App {
+#main-page{
+  background-color: #000000;
+}
+
+.copy{
+color: #67E1AE;
+margin-top: 100px;
+font-size: 56px;
+}
+
+.start-para{
+  color: white;
+
+}
+
+#img1{
+  max-width: 100%;
+}
+
+.button1{
+  background-color: #67E1AE;
+  border-radius: 12px;
+  padding: 5px 17px;
+}
+
+.button1:hover{
+  background-color: white;
+  border-radius: 12px;
+  padding: 5px 17px;
+}
+
+#sec-2{
+  background-color: #67E1AE;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: -100px;
+
+
+}
+
+.eighty{
+  font-size: 28px;
+  font-weight: bold;
+
+}
+
+
+.connected{
+  color: #67E1AE;
+  padding-top: 50px;
   text-align: center;
+  padding-bottom: 50px;
+
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.btn2{
+  background-color: #3C3C3C;
+  border-radius: 5px;
+  padding: 10px 14px;
+  border: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.btnimg{
+  max-width: 100%;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.btnimgbitget{
+  /* width: 122px; */
+  max-width: 100%;
+}
+
+.btnbitget{
+  background-color: #3C3C3C;
+  border-radius: 5px;
+  padding: 08px 14px;
+  border: none; 
+  max-width: 100%;
+}
+
+.btnokx{
+  background-color: #3C3C3C;
+  border-radius: 5px;
+  padding: 14px 52px;
+  border: none; 
+  max-width: 100%;
+}
+
+
+.btnimgokx{
+  max-width: 100%;
+}
+ 
+
+.img3{
+  max-width: 100%;
+  margin-top: -40px;
+}
+
+.what{
+  color: #67E1AE;
+  margin-top: 200px;
+
+}
+.how{
+  color: #67E1AE;
+
+}
+
+
+.coy{
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.connect{
+  color: #67E1AE;
+
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.img5{
+  max-width: 100%;
+  margin-top: -150px;
+  width: 85%;
 }
+
+
+#btn1header2{
+  background-color: #67E1AE;
+  color: black;
+  padding: 12px 24px;
+  border-radius: 10px;
+  font-family: "sanssemibold";
+  text-decoration: none;
+  cursor: grab;
+transition: background-position 0.3s ease;
+background: linear-gradient(90deg, #67E1AE, #FFE425);
+background-size: 200% 100%;
+}
+
+#btn1header2:hover{
+
+  background-position: -100% 0;
+
+
+}
+
+
+.how1{
+  color: #67E1AE;
+text-align: center;
+margin-top: 100px;
+}
+
+.once{
+  color: white;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.img6{
+  display: block;
+  margin: 0 auto; /* Auto margins horizontally center the element */
+margin-top: 40px;
+width: 600px
+
+
+}
+
+.more{
+  color: #67E1AE;
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.morebtn1{
+  background-color: #3C3C3C;
+  border-radius: 5px;
+  padding: 12px 22px;
+  border: none;
+}
+
+#sec6{
+  padding-bottom: 50px;
+}
+
+.sec6-gap{
+  margin-bottom: 20px;
+}
+
+#btngap{
+  margin-top: 30px;
+}
+
+
+  .start{
+    color: #67E1AE;
+    text-align: center;
+    margin-top: 50px;
+
+  }
+  .p{
+    color: white;
+    text-align: center;
+  }
+
+  .button11{
+    background-color: #67E1AE;
+    border-radius: 5px;
+    padding: 5px 17px;
+ 
+    border: none;
+    margin-top: 10px;
+  }
+  
+  .button11:hover{
+    background-color: white;
+    border-radius: 12px;
+    padding: 5px 17px;
+  }
+
+
+  #sec7{
+    padding-bottom: 50px;
+  }
+
+
+  .h6why{
+    color: #67E1AE;
+
+  }
+
+  .h2copy{
+    color: white;
+  }
+
+  .hhwunder{
+    color: white;
+  }
+
+  .easy{
+    color: #67E1AE;
+
+  }
+
+  .this{
+    color: white;
+
+  }
+
+  .banner{
+    border: 1px solid #3C3C3C;
+    border-radius: 10px;
+    padding: 14px 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    height: 80%;
+  }
+
